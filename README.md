@@ -1,6 +1,6 @@
 # ExpandCollapseButton
 
-It is one king ToggleButton with interactive animations. It can be used in various purpose. Mainly when need to Expanding or Collapsing a View or Layouot.
+It is one king ToggleButton with interactive animations. It can be used in various purpose. Mainly when need to Expanding or Collapsing a View or Layout.
 
 [![Alt text for your video](https://github.com/mmb4rn0/ExpandCollapseButton/blob/master/website/expand_collapse_button.gif)]
 
