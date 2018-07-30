@@ -1,6 +1,6 @@
 # ExpandCollapseButton
 
-It is one king ToggleButton with interactive animations. It can be used in various purpose. Mainly when need to Expanding or Collapsing a View or Layout.
+It is one kind of ToggleButton with interactive animations. It can be used in various purpose. Mainly when need to Expanding or Collapsing a View or Layout.
 
 [![Alt text for your video](https://github.com/mmb4rn0/ExpandCollapseButton/blob/master/website/expand_collapse_button.gif)]
 
@@ -20,7 +20,7 @@ Grab via gradle-
   Step 2. Add the dependency 
   ```grovy	
    dependencies {
-	        compile 'com.github.mmb4rn0:ExpandCollapseButton:v1.0.0'
+	        implementation 'com.github.mmb4rn0:ExpandCollapseButton:v1.0.0'
 	}
   ```
 or via Maven-
