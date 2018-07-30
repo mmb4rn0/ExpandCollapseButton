@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandCollapseButton">
+        <attr name="checked" format="boolean" />
+        <attr name="checked_state_src" format="reference" />
+        <attr name="flip_axis" format="enum">
+            <enum name="x" value="1" />
+            <enum name="y" value="2" />
+        </attr>
+        <attr name="invert_flip" format="boolean" />
+        <attr name="flip_anim_duration" format="integer" />
+    </declare-styleable>
+</resources>
